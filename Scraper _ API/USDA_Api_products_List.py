@@ -1,0 +1,27 @@
+#This code extracts the Food_Group ID and their names from USDA API which would further be utilized in extracting the Nutrients Info.
+
+import urllib2
+import json
+import csv
+
+
+apiKey = '5Q7rcq6KPkQd8gtLQNifxe3xkkMBpixP8GFWsFoR'
+url1 = 'http://api.nal.usda.gov/ndb/list?format=json&lt=g&sort=id&api_key=' + apiKey
+json_obj = urllib2.urlopen(url1)
+data_dict = json.load(json_obj)
+products= data_dict['list']['item']
+
+food_groups = open('USDA_Food_Groups.csv', 'w')
+csvwriter = csv.writer(food_groups)
+csvwriter.writerow(['Food_Group_ID', 'Food_Group_Name'])
+
+for prod in products:
+	Food_Group_ID = prod['id']
+	Food_Group_Name= prod['name']
+	#print Food_Grp_ID, Food_Grp_Name
+	csvwriter.writerow([ Food_Group_ID, Food_Group_Name])
+	
+food_groups.close()
+print 'Groups Written successfully'
+
+

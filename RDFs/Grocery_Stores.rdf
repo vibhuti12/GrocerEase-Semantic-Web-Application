@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:groc="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#">
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#0">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Tempe Walmart</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 967-2237</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#1">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Tempe Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 966-0264</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#2">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Mesa Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 962-0038</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#3">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Phoenix Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(602) 685-0555</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#4">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Tempe Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 345-8686</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#5">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Phoenix Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(602) 232-2115</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#6">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Scottsdale Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 941-0333</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#7">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Mesa Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 668-9501</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#8">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Mesa Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 964-2347</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#9">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Chandler Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 786-0062</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#10">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Mesa Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 892-9009</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#11">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Chandler Walmart</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 333-2654</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#12">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Chandler Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 477-0212</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#13">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Mesa Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 733-1679</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#14">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Mesa Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 892-6085</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#15">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Chandler Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 448-4322</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#16">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Chandler Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 726-0841</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#17">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Phoenix Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(602) 246-1700</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#18">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Mesa Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 892-3814</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#19">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Phoenix Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(602) 243-8506</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#20">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Mesa Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 641-6728</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#21">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Phoenix Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(602) 404-3712</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#22">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Phoenix Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 754-8043</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#23">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Mesa Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 832-9484</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#24">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Chandler Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 812-2930</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#25">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Phoenix Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(602) 973-0774</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#26">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Mesa Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 830-3919</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#27">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Scottsdale Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 348-5505</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#28">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Gilbert Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 224-6900</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#29">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Phoenix Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 845-8713</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#30">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Phoenix Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(602) 482-7575</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#31">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Gilbert Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 988-0012</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#32">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Glendale Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 934-6920</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#33">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Phoenix Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 907-0007</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#34">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Glendale Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 939-4237</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#35">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Phoenix Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 849-1030</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#36">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Mesa Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 357-4137</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#37">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Phoenix Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(602) 942-4138</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#38">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Glendale Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 915-2632</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#39">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Glendale Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 773-2947</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#40">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Mesa Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 358-1122</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#41">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Glendale Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 872-0058</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#42">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Peoria Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 878-9907</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#43">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Glendale Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 869-0779</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#44">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Glendale Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(602) 978-8205</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#45">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Peoria Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(602) 627-9848</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#46">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Apache Junction Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 380-3800</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#47">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Queen Creek Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 457-1158</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#48">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Phoenix Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 780-5702</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#49">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Glendale Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 825-1129</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#50">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Avondale Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 935-4010</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#51">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Goodyear Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 935-7007</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#52">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Glendale Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 566-9754</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#53">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Cave Creek Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 296-7398</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#54">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Peoria Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 537-0809</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#55">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>El Mirage Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 583-1321</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#56">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Goodyear Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 925-9575</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#57">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>San Tan Valley Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(480) 677-2149</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#58">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Maricopa Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(520) 568-0846</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#59">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Surprise Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 544-2200</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#60">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Surprise Walmart Neighborhood Market</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 584-0189</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#61">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Surprise Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 282-3208</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#62">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Anthem Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 551-6314</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#63">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Buckeye Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(623) 474-6728</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#64">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Coolidge Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(520) 723-0945</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#65">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Walmart</groc:hasStoreType>
+	<groc:hasStoreName>Casa Grande Walmart Supercenter</groc:hasStoreName>
+	<groc:hasPhoneNumber>(520) 421-1200</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#66">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@BroadwayRd,Tempe</groc:hasStoreName>
+	<groc:hasPhoneNumber>480-829-6824</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#67">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@W. Main St, Mesa</groc:hasStoreName>
+	<groc:hasPhoneNumber>480-644-9448</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#68">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@NorthScottsdaleRoad</groc:hasStoreName>
+	<groc:hasPhoneNumber> 480-947-6977</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#69">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@BroadwayRd,Tempe</groc:hasStoreName>
+	<groc:hasPhoneNumber>480-820-8166</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#70">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@Guadalupe, Tempe</groc:hasStoreName>
+	<groc:hasPhoneNumber> 480-456-4373</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#71">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@E. Elliot Rd, Tempe</groc:hasStoreName>
+	<groc:hasPhoneNumber>480-755-1844</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#72">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@Indian School Rd, Phoenix</groc:hasStoreName>
+	<groc:hasPhoneNumber> 602-840-2161</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#73">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@Guadalupe, Mesa</groc:hasStoreName>
+	<groc:hasPhoneNumber>480-838-7452</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#74">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@Chaparral, Scottsdale</groc:hasStoreName>
+	<groc:hasPhoneNumber>480-994-5653</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#75">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@Elliot Rd, Phoenix</groc:hasStoreName>
+	<groc:hasPhoneNumber>480-496-0076</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#76">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@16Th St, Phoenix</groc:hasStoreName>
+	<groc:hasPhoneNumber> 602-268-0022</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#77">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@Ray Road, Chandler</groc:hasStoreName>
+	<groc:hasPhoneNumber>480-491-1026</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#78">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@Camelback Rd, Phoenix</groc:hasStoreName>
+	<groc:hasPhoneNumber>602-955-6455</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#79">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@Hayden Road, Scottsdale</groc:hasStoreName>
+	<groc:hasPhoneNumber>480-991-9707</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#80">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@Mcdowell, Phoenix</groc:hasStoreName>
+	<groc:hasPhoneNumber>602-252-4538</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#81">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@Chandler Blvd, Chandler</groc:hasStoreName>
+	<groc:hasPhoneNumber>480-726-7776</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#82">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@University Dr, Mesa</groc:hasStoreName>
+	<groc:hasPhoneNumber>480-833-9338</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#83">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@Chandler Blvd, Phoenix</groc:hasStoreName>
+	<groc:hasPhoneNumber>480-759-9611</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#84">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@WRay Rd, Chandler</groc:hasStoreName>
+	<groc:hasPhoneNumber>480-855-5005</groc:hasPhoneNumber>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Stores#85">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Grocery_Stores"/>
+	<groc:hasStoreType>Safeway</groc:hasStoreType>
+	<groc:hasStoreName>Safeway@Osborn Rd, Phoenix</groc:hasStoreName>
+	<groc:hasPhoneNumber> 602-274-7422</groc:hasPhoneNumber>
+</rdf:Description>
+
+</rdf:RDF>

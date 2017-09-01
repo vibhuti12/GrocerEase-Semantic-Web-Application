@@ -1,0 +1,24 @@
+import urllib2
+import json
+import csv
+
+apiKey = '5Q7rcq6KPkQd8gtLQNifxe3xkkMBpixP8GFWsFoR'
+url = 'http://api.nal.usda.gov/ndb/list?format=json&lt=n&max=1500&sort=id&api_key=' + apiKey
+
+json_obj = urllib2.urlopen(url)
+data_dict = json.load(json_obj)
+nutrients = data_dict['list']['item']
+
+nutrient_groups = open('USDA_Nutrients.csv', 'w')
+csvwriter = csv.writer(nutrient_groups)
+csvwriter.writerow(['Nutrient_ID', 'Nutrient_Name'])
+
+for nutri in nutrients:
+	Nutri_ID = nutri['id']
+	Nutri_Name = nutri['name']
+	csvwriter.writerow([Nutri_ID, Nutri_Name])
+	
+nutrient_groups.close()
+print 'Done successfully'
+
+

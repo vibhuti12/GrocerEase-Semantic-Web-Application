@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:groc="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#">
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#0">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Bagels</groc:hasProductType>
+	<groc:hasProtein>9.9 g</groc:hasProtein>
+	<groc:hasSugars>8.66 g</groc:hasSugars>
+	<groc:hasFat>1.24 g</groc:hasFat>
+	<groc:hasCarbohydrates>47.47 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>124.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>241.0 kcal</groc:hasEnergy>
+	<groc:hasWater>39.4 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#1">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Bread</groc:hasProductType>
+	<groc:hasProtein>9.5 g</groc:hasProtein>
+	<groc:hasSugars>1.78 g</groc:hasSugars>
+	<groc:hasFat>6.0 g</groc:hasFat>
+	<groc:hasCarbohydrates>47.8 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>93.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>287.0 kcal</groc:hasEnergy>
+	<groc:hasWater>34.7 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#2">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Brownies</groc:hasProductType>
+	<groc:hasProtein>4.8 g</groc:hasProtein>
+	<groc:hasSugars>36.61 g</groc:hasSugars>
+	<groc:hasFat>16.3 g</groc:hasFat>
+	<groc:hasCarbohydrates>63.9 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>29.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>405.0 kcal</groc:hasEnergy>
+	<groc:hasWater>13.6 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#3">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Cake</groc:hasProductType>
+	<groc:hasProtein>6.4 g</groc:hasProtein>
+	<groc:hasSugars>61.33 g</groc:hasSugars>
+	<groc:hasFat>0.27 g</groc:hasFat>
+	<groc:hasCarbohydrates>86.13 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>153.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>366.0 kcal</groc:hasEnergy>
+	<groc:hasWater>3.73 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#4">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Cookies</groc:hasProductType>
+	<groc:hasProtein>6.1 g</groc:hasProtein>
+	<groc:hasSugars>20.24 g</groc:hasSugars>
+	<groc:hasFat>18.8 g</groc:hasFat>
+	<groc:hasCarbohydrates>68.9 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>29.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>467.0 kcal</groc:hasEnergy>
+	<groc:hasWater>4.6 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#5">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Croutons</groc:hasProductType>
+	<groc:hasProtein>6.1 g</groc:hasProtein>
+	<groc:hasSugars>30.51 g</groc:hasSugars>
+	<groc:hasFat>0.3 g</groc:hasFat>
+	<groc:hasCarbohydrates>58.7 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>84.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>257.0 kcal</groc:hasEnergy>
+	<groc:hasWater>32.9 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#6">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Cupcakes</groc:hasProductType>
+	<groc:hasProtein>3.48 g</groc:hasProtein>
+	<groc:hasSugars>39.96 g</groc:hasSugars>
+	<groc:hasFat>20.05 g</groc:hasFat>
+	<groc:hasCarbohydrates>52.84 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>30.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>389.0 kcal</groc:hasEnergy>
+	<groc:hasWater>22.04 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#7">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Donuts</groc:hasProductType>
+	<groc:hasProtein>4.5 g</groc:hasProtein>
+	<groc:hasSugars>31.92 g</groc:hasSugars>
+	<groc:hasFat>19.9 g</groc:hasFat>
+	<groc:hasCarbohydrates>57.4 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>213.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>417.0 kcal</groc:hasEnergy>
+	<groc:hasWater>16.3 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#8">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Muffins</groc:hasProductType>
+	<groc:hasProtein>9.1 g</groc:hasProtein>
+	<groc:hasSugars>0.81 g</groc:hasSugars>
+	<groc:hasFat>1.8 g</groc:hasFat>
+	<groc:hasCarbohydrates>46.3 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>196.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>235.0 kcal</groc:hasEnergy>
+	<groc:hasWater>40.2 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#9">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Pie</groc:hasProductType>
+	<groc:hasProtein>6.4 g</groc:hasProtein>
+	<groc:hasSugars>0.17 g</groc:hasSugars>
+	<groc:hasFat>34.6 g</groc:hasFat>
+	<groc:hasCarbohydrates>47.5 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>10.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>527.0 kcal</groc:hasEnergy>
+	<groc:hasWater>9.8 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#10">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Tortillas</groc:hasProductType>
+	<groc:hasProtein>8.01 g</groc:hasProtein>
+	<groc:hasSugars>2.66 g</groc:hasSugars>
+	<groc:hasFat>7.58 g</groc:hasFat>
+	<groc:hasCarbohydrates>49.27 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>163.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>297.0 kcal</groc:hasEnergy>
+	<groc:hasWater>32.43 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#11">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Tacos</groc:hasProductType>
+	<groc:hasProtein>6.47 g</groc:hasProtein>
+	<groc:hasSugars>4.91 g</groc:hasSugars>
+	<groc:hasFat>9.7 g</groc:hasFat>
+	<groc:hasCarbohydrates>42.98 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>308.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>285.0 kcal</groc:hasEnergy>
+	<groc:hasWater>37.95 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#14">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Oats</groc:hasProductType>
+	<groc:hasProtein>11.92 g</groc:hasProtein>
+	<groc:hasSugars>1.5 g</groc:hasSugars>
+	<groc:hasFat>6.9 g</groc:hasFat>
+	<groc:hasCarbohydrates>69.52 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>351.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>362.0 kcal</groc:hasEnergy>
+	<groc:hasWater>8.92 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#15">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Cereals</groc:hasProductType>
+	<groc:hasProtein>5.09 g</groc:hasProtein>
+	<groc:hasSugars>21.39 g</groc:hasSugars>
+	<groc:hasFat>9.89 g</groc:hasFat>
+	<groc:hasCarbohydrates>78.19 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>714.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>386.0 kcal</groc:hasEnergy>
+	<groc:hasWater>2.5 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#16">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Butter</groc:hasProductType>
+	<groc:hasProtein>0.49 g</groc:hasProtein>
+	<groc:hasSugars>0.06 g</groc:hasSugars>
+	<groc:hasFat>78.3 g</groc:hasFat>
+	<groc:hasCarbohydrates>2.87 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>23.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>718.0 kcal</groc:hasEnergy>
+	<groc:hasWater>16.72 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#17">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Cheese</groc:hasProductType>
+	<groc:hasProtein>16.7 g</groc:hasProtein>
+	<groc:hasSugars>7.74 g</groc:hasSugars>
+	<groc:hasFat>14.0 g</groc:hasFat>
+	<groc:hasCarbohydrates>11.6 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>562.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>239.0 kcal</groc:hasEnergy>
+	<groc:hasWater>53.1 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#18">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Cream</groc:hasProductType>
+	<groc:hasProtein>3.13 g</groc:hasProtein>
+	<groc:hasSugars>4.13 g</groc:hasSugars>
+	<groc:hasFat>10.39 g</groc:hasFat>
+	<groc:hasCarbohydrates>4.73 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>107.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>123.0 kcal</groc:hasEnergy>
+	<groc:hasWater>81.24 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#19">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Eggs</groc:hasProductType>
+	<groc:hasProtein>13.61 g</groc:hasProtein>
+	<groc:hasSugars>0.4 g</groc:hasSugars>
+	<groc:hasFat>14.84 g</groc:hasFat>
+	<groc:hasCarbohydrates>0.83 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>62.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>196.0 kcal</groc:hasEnergy>
+	<groc:hasWater>69.47 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#20">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Milk</groc:hasProductType>
+	<groc:hasProtein>3.15 g</groc:hasProtein>
+	<groc:hasSugars>5.05 g</groc:hasSugars>
+	<groc:hasFat>3.25 g</groc:hasFat>
+	<groc:hasCarbohydrates>4.8 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>113.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>61.0 kcal</groc:hasEnergy>
+	<groc:hasWater>88.13 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#21">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Yogurt</groc:hasProductType>
+	<groc:hasProtein>9.95 g</groc:hasProtein>
+	<groc:hasSugars>3.56 g</groc:hasSugars>
+	<groc:hasFat>1.92 g</groc:hasFat>
+	<groc:hasCarbohydrates>3.94 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>115.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>73.0 kcal</groc:hasEnergy>
+	<groc:hasWater>83.56 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#22">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Bacon</groc:hasProductType>
+	<groc:hasProtein>13.33 g</groc:hasProtein>
+	<groc:hasSugars>0.0 g</groc:hasSugars>
+	<groc:hasFat>20.0 g</groc:hasFat>
+	<groc:hasCarbohydrates>4.8 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>10.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>253.0 kcal</groc:hasEnergy>
+	<groc:hasWater>58.93 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#23">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Beef</groc:hasProductType>
+	<groc:hasProtein>31.1 g</groc:hasProtein>
+	<groc:hasSugars>2.7 g</groc:hasSugars>
+	<groc:hasFat>1.94 g</groc:hasFat>
+	<groc:hasCarbohydrates>2.76 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>8.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>153.0 kcal</groc:hasEnergy>
+	<groc:hasWater>53.8 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#24">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Chicken</groc:hasProductType>
+	<groc:hasProtein>17.4 g</groc:hasProtein>
+	<groc:hasSugars>0.75 g</groc:hasSugars>
+	<groc:hasFat>1.86 g</groc:hasFat>
+	<groc:hasCarbohydrates>2.92 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>11.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>98.0 kcal</groc:hasEnergy>
+	<groc:hasWater>74.47 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#25">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Crab</groc:hasProductType>
+	<groc:hasProtein>15.42 g</groc:hasProtein>
+	<groc:hasSugars>0.0 g</groc:hasSugars>
+	<groc:hasFat>18.09 g</groc:hasFat>
+	<groc:hasCarbohydrates>1.56 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>32.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>235.0 kcal</groc:hasEnergy>
+	<groc:hasWater>63.12 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#26">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Lamb</groc:hasProductType>
+	<groc:hasProtein>17.3 g</groc:hasProtein>
+	<groc:hasSugars>4.61 g</groc:hasSugars>
+	<groc:hasFat>6.37 g</groc:hasFat>
+	<groc:hasCarbohydrates>4.53 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>54.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>149.0 kcal</groc:hasEnergy>
+	<groc:hasWater>67.4 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#27">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Pork</groc:hasProductType>
+	<groc:hasProtein>8.0 g</groc:hasProtein>
+	<groc:hasSugars>0.0 g</groc:hasSugars>
+	<groc:hasFat>2.5 g</groc:hasFat>
+	<groc:hasCarbohydrates>11.54 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>10.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>101.0 kcal</groc:hasEnergy>
+	<groc:hasWater>76.3 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#28">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Shrimp</groc:hasProductType>
+	<groc:hasProtein>21.8 g</groc:hasProtein>
+	<groc:hasSugars>0.0 g</groc:hasSugars>
+	<groc:hasFat>26.4 g</groc:hasFat>
+	<groc:hasCarbohydrates>6.4 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>8.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>350.0 kcal</groc:hasEnergy>
+	<groc:hasWater>40.5 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#29">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Turkey</groc:hasProductType>
+	<groc:hasProtein>15.42 g</groc:hasProtein>
+	<groc:hasSugars>0.0 g</groc:hasSugars>
+	<groc:hasFat>18.09 g</groc:hasFat>
+	<groc:hasCarbohydrates>1.56 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>32.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>235.0 kcal</groc:hasEnergy>
+	<groc:hasWater>63.12 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#30">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Fish</groc:hasProductType>
+	<groc:hasProtein>13.5 g</groc:hasProtein>
+	<groc:hasSugars>4.0 g</groc:hasSugars>
+	<groc:hasFat>3.0 g</groc:hasFat>
+	<groc:hasCarbohydrates>7.7 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>16.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>112.0 kcal</groc:hasEnergy>
+	<groc:hasWater>72.0 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#31">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Apples</groc:hasProductType>
+	<groc:hasProtein>0.18 g</groc:hasProtein>
+	<groc:hasSugars>14.84 g</groc:hasSugars>
+	<groc:hasFat>0.43 g</groc:hasFat>
+	<groc:hasCarbohydrates>16.84 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>4.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>67.0 kcal</groc:hasEnergy>
+	<groc:hasWater>82.28 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#32">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Banana</groc:hasProductType>
+	<groc:hasProtein>1.09 g</groc:hasProtein>
+	<groc:hasSugars>12.23 g</groc:hasSugars>
+	<groc:hasFat>0.33 g</groc:hasFat>
+	<groc:hasCarbohydrates>22.84 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>5.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>89.0 kcal</groc:hasEnergy>
+	<groc:hasWater>74.91 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#33">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Oranges</groc:hasProductType>
+	<groc:hasProtein>0.94 g</groc:hasProtein>
+	<groc:hasSugars>9.35 g</groc:hasSugars>
+	<groc:hasFat>0.12 g</groc:hasFat>
+	<groc:hasCarbohydrates>11.75 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>40.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>47.0 kcal</groc:hasEnergy>
+	<groc:hasWater>86.75 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#34">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Berry</groc:hasProductType>
+	<groc:hasProtein>1.31 g</groc:hasProtein>
+	<groc:hasSugars>19.7 g</groc:hasSugars>
+	<groc:hasFat>0.14 g</groc:hasFat>
+	<groc:hasCarbohydrates>23.1 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>21.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>92.0 kcal</groc:hasEnergy>
+	<groc:hasWater>75.06 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#35">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Grapes</groc:hasProductType>
+	<groc:hasProtein>0.63 g</groc:hasProtein>
+	<groc:hasSugars>16.25 g</groc:hasSugars>
+	<groc:hasFat>0.35 g</groc:hasFat>
+	<groc:hasCarbohydrates>17.15 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>14.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>67.0 kcal</groc:hasEnergy>
+	<groc:hasWater>81.3 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#36">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Frozen</groc:hasProductType>
+	<groc:hasProtein>0.18 g</groc:hasProtein>
+	<groc:hasSugars>14.84 g</groc:hasSugars>
+	<groc:hasFat>0.43 g</groc:hasFat>
+	<groc:hasCarbohydrates>16.84 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>4.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>67.0 kcal</groc:hasEnergy>
+	<groc:hasWater>82.28 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#37">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Carrot</groc:hasProductType>
+	<groc:hasProtein>0.93 g</groc:hasProtein>
+	<groc:hasSugars>4.74 g</groc:hasSugars>
+	<groc:hasFat>0.24 g</groc:hasFat>
+	<groc:hasCarbohydrates>9.58 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>33.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>41.0 kcal</groc:hasEnergy>
+	<groc:hasWater>88.29 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#38">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Cabbage</groc:hasProductType>
+	<groc:hasProtein>1.28 g</groc:hasProtein>
+	<groc:hasSugars>3.2 g</groc:hasSugars>
+	<groc:hasFat>0.1 g</groc:hasFat>
+	<groc:hasCarbohydrates>5.8 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>40.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>25.0 kcal</groc:hasEnergy>
+	<groc:hasWater>92.18 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#39">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Beans</groc:hasProductType>
+	<groc:hasProtein>1.89 g</groc:hasProtein>
+	<groc:hasSugars>3.63 g</groc:hasSugars>
+	<groc:hasFat>0.28 g</groc:hasFat>
+	<groc:hasCarbohydrates>7.88 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>44.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>35.0 kcal</groc:hasEnergy>
+	<groc:hasWater>89.22 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#40">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Potato</groc:hasProductType>
+	<groc:hasProtein>2.3 g</groc:hasProtein>
+	<groc:hasSugars>1.43 g</groc:hasSugars>
+	<groc:hasFat>0.15 g</groc:hasFat>
+	<groc:hasCarbohydrates>19.59 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>9.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>89.0 kcal</groc:hasEnergy>
+	<groc:hasWater>76.67 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#41">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Onion</groc:hasProductType>
+	<groc:hasProtein>1.1 g</groc:hasProtein>
+	<groc:hasSugars>4.24 g</groc:hasSugars>
+	<groc:hasFat>0.1 g</groc:hasFat>
+	<groc:hasCarbohydrates>9.34 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>23.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>40.0 kcal</groc:hasEnergy>
+	<groc:hasWater>89.11 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#42">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Tomato</groc:hasProductType>
+	<groc:hasProtein>0.88 g</groc:hasProtein>
+	<groc:hasSugars>2.63 g</groc:hasSugars>
+	<groc:hasFat>0.2 g</groc:hasFat>
+	<groc:hasCarbohydrates>3.89 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>10.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>18.0 kcal</groc:hasEnergy>
+	<groc:hasWater>94.52 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#43">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Mushroom</groc:hasProductType>
+	<groc:hasProtein>1.49 g</groc:hasProtein>
+	<groc:hasSugars>1.16 g</groc:hasSugars>
+	<groc:hasFat>0.53 g</groc:hasFat>
+	<groc:hasCarbohydrates>6.86 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>15.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>38.0 kcal</groc:hasEnergy>
+	<groc:hasWater>89.85 g</groc:hasWater>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Nutrients#44">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Nutrients"/>
+	<groc:hasProductType>Peas</groc:hasProductType>
+	<groc:hasProtein>5.42 g</groc:hasProtein>
+	<groc:hasSugars>5.67 g</groc:hasSugars>
+	<groc:hasFat>0.4 g</groc:hasFat>
+	<groc:hasCarbohydrates>14.45 g</groc:hasCarbohydrates>
+	<groc:hasCalcium>25.0 mg</groc:hasCalcium>
+	<groc:hasEnergy>81.0 kcal</groc:hasEnergy>
+	<groc:hasWater>78.86 g</groc:hasWater>
+</rdf:Description>
+
+</rdf:RDF>

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html ng-app="MyApp">
+    <head lang="en">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+        <title>Web Scrapping</title>
+
+        <!-- scripts -->
+        <!-- build:js lib/jquery.min.js -->
+        <script src="bower_components/jquery/dist/jquery.js"></script>
+
+        <script src="bower_components/bootbox/bootbox.js"></script>
+        <!-- endbuild -->
+        <!-- build:js lib/angular.min.js -->
+        <script src="bower_components/angular/angular.js"></script>
+        <!-- endbuild -->
+        <!-- build:js lib/angular-route.min.js -->
+        <script src="bower_components/angular-route/angular-route.js"></script>
+        <!-- endbuild -->
+        <!-- build:js lib/bootstrap.min.js -->
+
+        <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+        <!-- endbuild -->
+        <!-- styles -->
+        <!-- build:css lib/bootstrap.min.css -->
+        <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css"/>
+        <!-- endbuild -->
+        <!-- build:css lib/font-awesome.min.css -->
+        <link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.css"/>
+        <!-- endbuild -->
+        <link rel="stylesheet" href="css/main.css"/>
+
+    </head>
+    <body>
+        <div style="min-height:100%">
+            <!-- Modal -->
+
+            <!-- views -->
+            <div ng-view></div>
+        </div>
+
+        <script src="scripts/app.js"></script>
+        <script src="scripts/factory/serviceCall.js"></script>
+
+        <script src="scripts/controllers/homeController.js"></script>
+        <script src="scripts/controllers/MapController.js"></script>
+    </body>
+</html>

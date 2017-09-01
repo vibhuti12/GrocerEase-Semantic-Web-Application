@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:groc="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#">
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#0">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Tempe Walmart</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.414323</groc:hasLatitude>
+	<groc:hasLongitude>-111.929432</groc:hasLongitude>
+	<groc:hasAddress>671 E Apache Blvd, Tempe, AZ</groc:hasAddress>
+	<groc:hasZipCode>85281</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#1">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Tempe Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.39392</groc:hasLatitude>
+	<groc:hasLongitude>-111.92791</groc:hasLongitude>
+	<groc:hasAddress>800 E Southern Ave, Tempe, AZ</groc:hasAddress>
+	<groc:hasZipCode>85282</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#2">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Mesa Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.431942</groc:hasLatitude>
+	<groc:hasLongitude>-111.865295</groc:hasLongitude>
+	<groc:hasAddress>857 N Dobson Rd, Mesa, AZ</groc:hasAddress>
+	<groc:hasZipCode>85201</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#3">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Phoenix Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.478722</groc:hasLatitude>
+	<groc:hasLongitude>-112.000982</groc:hasLongitude>
+	<groc:hasAddress>3721 E Thomas Rd, Phoenix, AZ</groc:hasAddress>
+	<groc:hasZipCode>85018</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#4">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Tempe Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.35103</groc:hasLatitude>
+	<groc:hasLongitude>-111.960968</groc:hasLongitude>
+	<groc:hasAddress>1380 W Elliot Rd, Tempe, AZ</groc:hasAddress>
+	<groc:hasZipCode>85284</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#5">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Phoenix Walmart Neighborhood Market</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.376046</groc:hasLatitude>
+	<groc:hasLongitude>-112.029277</groc:hasLongitude>
+	<groc:hasAddress>2435 E Baseline Rd, Phoenix, AZ</groc:hasAddress>
+	<groc:hasZipCode>85042</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#6">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Scottsdale Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.507771</groc:hasLatitude>
+	<groc:hasLongitude>-111.889315</groc:hasLongitude>
+	<groc:hasAddress>4915 N Pima Rd, Scottsdale, AZ</groc:hasAddress>
+	<groc:hasZipCode>85251</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#7">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Mesa Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.380761</groc:hasLatitude>
+	<groc:hasLongitude>-111.83672</groc:hasLongitude>
+	<groc:hasAddress>240 W Baseline Rd, Mesa, AZ</groc:hasAddress>
+	<groc:hasZipCode>85210</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#8">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Mesa Walmart Neighborhood Market</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.452481</groc:hasLatitude>
+	<groc:hasLongitude>-111.81464</groc:hasLongitude>
+	<groc:hasAddress>730 E Mckellips Rd, Mesa, AZ</groc:hasAddress>
+	<groc:hasZipCode>85203</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#9">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Chandler Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.337731</groc:hasLatitude>
+	<groc:hasLongitude>-111.854681</groc:hasLongitude>
+	<groc:hasAddress>800 W Warner Rd, Chandler, AZ</groc:hasAddress>
+	<groc:hasZipCode>85225</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#10">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Mesa Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.380445</groc:hasLatitude>
+	<groc:hasLongitude>-111.802765</groc:hasLongitude>
+	<groc:hasAddress>1955 S Stapley Dr, Mesa, AZ</groc:hasAddress>
+	<groc:hasZipCode>85204</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#11">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Chandler Walmart</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.3078755</groc:hasLatitude>
+	<groc:hasLongitude>-111.9016321</groc:hasLongitude>
+	<groc:hasAddress>3460 W. Chandler Boulevard, Chandler, AZ</groc:hasAddress>
+	<groc:hasZipCode>85226</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#12">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Chandler Walmart Neighborhood Market</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.303752</groc:hasLatitude>
+	<groc:hasLongitude>-111.947348</groc:hasLongitude>
+	<groc:hasAddress>6085 W Chandler Blvd, Chandler, AZ</groc:hasAddress>
+	<groc:hasZipCode>85226</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#13">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Mesa Walmart Neighborhood Market</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.449316</groc:hasLatitude>
+	<groc:hasLongitude>-111.772239</groc:hasLongitude>
+	<groc:hasAddress>2725 E Mckellips Rd, Mesa, AZ</groc:hasAddress>
+	<groc:hasZipCode>85213</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#14">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Chandler Walmart Neighborhood Market</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.30784</groc:hasLatitude>
+	<groc:hasLongitude>-111.808474</groc:hasLongitude>
+	<groc:hasAddress>1900 E Chandler Blvd, Chandler, AZ</groc:hasAddress>
+	<groc:hasZipCode>85225</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#15">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Phoenix Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.521957</groc:hasLatitude>
+	<groc:hasLongitude>-112.092708</groc:hasLongitude>
+	<groc:hasAddress>1607 W Bethany Home Rd, Phoenix, AZ</groc:hasAddress>
+	<groc:hasZipCode>85015</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#16">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Mesa Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.384526</groc:hasLatitude>
+	<groc:hasLongitude>-111.739644</groc:hasLongitude>
+	<groc:hasAddress>1710 S Greenfield Rd, Mesa, AZ</groc:hasAddress>
+	<groc:hasZipCode>85206</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#17">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Phoenix Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.39053</groc:hasLatitude>
+	<groc:hasLongitude>-112.136887</groc:hasLongitude>
+	<groc:hasAddress>6150 S 35Th Ave, Phoenix, AZ</groc:hasAddress>
+	<groc:hasZipCode>85041</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#18">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Mesa Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.449105</groc:hasLatitude>
+	<groc:hasLongitude>-111.733671</groc:hasLongitude>
+	<groc:hasAddress>4505 E Mckellips Rd, Mesa, AZ</groc:hasAddress>
+	<groc:hasZipCode>85215</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#19">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Phoenix Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.596146</groc:hasLatitude>
+	<groc:hasLongitude>-111.978633</groc:hasLongitude>
+	<groc:hasAddress>4747 E Cactus Rd, Phoenix, AZ</groc:hasAddress>
+	<groc:hasZipCode>85032</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#20">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Phoenix Walmart Neighborhood Market</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.566489</groc:hasLatitude>
+	<groc:hasLongitude>-112.072193</groc:hasLongitude>
+	<groc:hasAddress>115 E Dunlap Ave, Phoenix, AZ</groc:hasAddress>
+	<groc:hasZipCode>85020</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#21">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Mesa Walmart Neighborhood Market</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.424031</groc:hasLatitude>
+	<groc:hasLongitude>-111.72059</groc:hasLongitude>
+	<groc:hasAddress>5122 E University Dr, Mesa, AZ</groc:hasAddress>
+	<groc:hasZipCode>85205</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#22">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Chandler Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.281575</groc:hasLatitude>
+	<groc:hasLongitude>-111.793378</groc:hasLongitude>
+	<groc:hasAddress>2750 E Germann Rd, Chandler, AZ</groc:hasAddress>
+	<groc:hasZipCode>85286</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#23">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Phoenix Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.526877</groc:hasLatitude>
+	<groc:hasLongitude>-112.132538</groc:hasLongitude>
+	<groc:hasAddress>6145 N 35Th Ave, Phoenix, AZ</groc:hasAddress>
+	<groc:hasZipCode>85017</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#24">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Mesa Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.391531</groc:hasLatitude>
+	<groc:hasLongitude>-111.699115</groc:hasLongitude>
+	<groc:hasAddress>6131 E Southern Ave, Mesa, AZ</groc:hasAddress>
+	<groc:hasZipCode>85206</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#25">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Scottsdale Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.624679</groc:hasLatitude>
+	<groc:hasLongitude>-111.893377</groc:hasLongitude>
+	<groc:hasAddress>15355 N Northsight Blvd, Scottsdale, AZ</groc:hasAddress>
+	<groc:hasZipCode>85260</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#26">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Gilbert Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.304999</groc:hasLatitude>
+	<groc:hasLongitude>-111.741012</groc:hasLongitude>
+	<groc:hasAddress>2501 S Market St, Gilbert, AZ</groc:hasAddress>
+	<groc:hasZipCode>85295</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#27">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Phoenix Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.49645996</groc:hasLatitude>
+	<groc:hasLongitude>-112.1726456</groc:hasLongitude>
+	<groc:hasAddress>5250 W Indian School Rd, Phoenix, AZ</groc:hasAddress>
+	<groc:hasZipCode>85031</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#28">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Phoenix Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.63843</groc:hasLatitude>
+	<groc:hasLongitude>-111.981841</groc:hasLongitude>
+	<groc:hasAddress>4617 E Bell Rd, Phoenix, AZ</groc:hasAddress>
+	<groc:hasZipCode>85032</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#29">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Gilbert Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.319619</groc:hasLatitude>
+	<groc:hasLongitude>-111.689643</groc:hasLongitude>
+	<groc:hasAddress>5290 S Power Rd, Gilbert, AZ</groc:hasAddress>
+	<groc:hasZipCode>85295</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#30">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Glendale Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.551186</groc:hasLatitude>
+	<groc:hasLongitude>-112.179904</groc:hasLongitude>
+	<groc:hasAddress>5605 W Northern Ave, Glendale, AZ</groc:hasAddress>
+	<groc:hasZipCode>85301</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#31">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Phoenix Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.4204018</groc:hasLatitude>
+	<groc:hasLongitude>-112.2231893</groc:hasLongitude>
+	<groc:hasAddress>7575 W Lower Buckeye Rd, Phoenix, AZ</groc:hasAddress>
+	<groc:hasZipCode>85043</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#32">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Glendale Walmart Neighborhood Market</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.5647729</groc:hasLatitude>
+	<groc:hasLongitude>-112.1700005</groc:hasLongitude>
+	<groc:hasAddress>5137 W Olive Ave, Glendale, AZ</groc:hasAddress>
+	<groc:hasZipCode>85302</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#33">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Phoenix Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.470806</groc:hasLatitude>
+	<groc:hasLongitude>-112.223505</groc:hasLongitude>
+	<groc:hasAddress>2020 N 75Th Ave, Phoenix, AZ</groc:hasAddress>
+	<groc:hasZipCode>85035</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#34">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Mesa Walmart Neighborhood Market</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.363017</groc:hasLatitude>
+	<groc:hasLongitude>-111.654204</groc:hasLongitude>
+	<groc:hasAddress>8335 E Guadalupe Rd, Mesa, AZ</groc:hasAddress>
+	<groc:hasZipCode>85212</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#35">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Phoenix Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.637216</groc:hasLatitude>
+	<groc:hasLongitude>-112.098055</groc:hasLongitude>
+	<groc:hasAddress>1825 W Bell Rd, Phoenix, AZ</groc:hasAddress>
+	<groc:hasZipCode>85023</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#36">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Glendale Walmart Neighborhood Market</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.539296</groc:hasLatitude>
+	<groc:hasLongitude>-112.218862</groc:hasLongitude>
+	<groc:hasAddress>7450 W Glendale Ave, Glendale, AZ</groc:hasAddress>
+	<groc:hasZipCode>85303</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#37">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Glendale Walmart Neighborhood Market</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.5802237</groc:hasLatitude>
+	<groc:hasLongitude>-112.2019234</groc:hasLongitude>
+	<groc:hasAddress>6645 W Peoria Ave, Glendale, AZ</groc:hasAddress>
+	<groc:hasZipCode>85302</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#38">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Mesa Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.38506</groc:hasLatitude>
+	<groc:hasLongitude>-111.599933</groc:hasLongitude>
+	<groc:hasAddress>1606 S Signal Butte Rd, Mesa, AZ</groc:hasAddress>
+	<groc:hasZipCode>85209</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#39">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Glendale Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.51025</groc:hasLatitude>
+	<groc:hasLongitude>-112.267293</groc:hasLongitude>
+	<groc:hasAddress>5010 N 95Th Ave, Glendale, AZ</groc:hasAddress>
+	<groc:hasZipCode>85305</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#40">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Peoria Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.5784583</groc:hasLatitude>
+	<groc:hasLongitude>-112.2303209</groc:hasLongitude>
+	<groc:hasAddress>7975 W Peoria Ave, Peoria, AZ</groc:hasAddress>
+	<groc:hasZipCode>85345</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#41">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Glendale Walmart Neighborhood Market</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.656074</groc:hasLatitude>
+	<groc:hasLongitude>-112.150364</groc:hasLongitude>
+	<groc:hasAddress>4230 W Union Hills Dr, Glendale, AZ</groc:hasAddress>
+	<groc:hasZipCode>85308</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#42">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Glendale Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.636517</groc:hasLatitude>
+	<groc:hasLongitude>-112.184744</groc:hasLongitude>
+	<groc:hasAddress>5845 W Bell Rd, Glendale, AZ</groc:hasAddress>
+	<groc:hasZipCode>85308</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#43">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Peoria Walmart Neighborhood Market</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.609159</groc:hasLatitude>
+	<groc:hasLongitude>-112.21834</groc:hasLongitude>
+	<groc:hasAddress>7421 West Thunderbird Road, Peoria, AZ</groc:hasAddress>
+	<groc:hasZipCode>85381</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#44">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Apache Junction Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.413821</groc:hasLatitude>
+	<groc:hasLongitude>-111.5753437</groc:hasLongitude>
+	<groc:hasAddress>2555 W Apache Trl, Apache Junction, AZ</groc:hasAddress>
+	<groc:hasZipCode>85120</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#45">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Queen Creek Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.251461</groc:hasLatitude>
+	<groc:hasLongitude>-111.629508</groc:hasLongitude>
+	<groc:hasAddress>21055 E Rittenhouse Rd, Queen Creek, AZ</groc:hasAddress>
+	<groc:hasZipCode>85142</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#46">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Phoenix Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.7083498</groc:hasLatitude>
+	<groc:hasLongitude>-112.1129733</groc:hasLongitude>
+	<groc:hasAddress>2501 W Happy Valley Rd Ste 34, Phoenix, AZ</groc:hasAddress>
+	<groc:hasZipCode>85085</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#47">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Glendale Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.65067</groc:hasLatitude>
+	<groc:hasLongitude>-112.234138</groc:hasLongitude>
+	<groc:hasAddress>18551 N 83Rd Ave, Glendale, AZ</groc:hasAddress>
+	<groc:hasZipCode>85308</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#48">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Avondale Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.459141</groc:hasLatitude>
+	<groc:hasLongitude>-112.3381</groc:hasLongitude>
+	<groc:hasAddress>13055 W Rancho Santa Fe Blvd, Avondale, AZ</groc:hasAddress>
+	<groc:hasZipCode>85392</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#49">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Goodyear Walmart Neighborhood Market</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.4871959</groc:hasLatitude>
+	<groc:hasLongitude>-112.3644107</groc:hasLongitude>
+	<groc:hasAddress>14200 W Indian School Rd, Goodyear, AZ</groc:hasAddress>
+	<groc:hasZipCode>85395</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#50">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Glendale Walmart Neighborhood Market</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.713791</groc:hasLatitude>
+	<groc:hasLongitude>-112.201314</groc:hasLongitude>
+	<groc:hasAddress>6550 West Happy Valley Rd, Glendale, AZ</groc:hasAddress>
+	<groc:hasZipCode>85310</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#51">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Cave Creek Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.796641</groc:hasLatitude>
+	<groc:hasLongitude>-111.962216</groc:hasLongitude>
+	<groc:hasAddress>34399 N Cave Creek Rd, Cave Creek, AZ</groc:hasAddress>
+	<groc:hasZipCode>85331</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#52">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Peoria Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.680298</groc:hasLatitude>
+	<groc:hasLongitude>-112.276167</groc:hasLongitude>
+	<groc:hasAddress>21655 N Lake Pleasant Pkwy, Peoria, AZ</groc:hasAddress>
+	<groc:hasZipCode>85382</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#53">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>El Mirage Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.610608</groc:hasLatitude>
+	<groc:hasLongitude>-112.33649</groc:hasLongitude>
+	<groc:hasAddress>12900 W Thunderbird Rd, El Mirage, AZ</groc:hasAddress>
+	<groc:hasZipCode>85335</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#54">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Goodyear Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.459558</groc:hasLatitude>
+	<groc:hasLongitude>-112.395288</groc:hasLongitude>
+	<groc:hasAddress>1100 N Estrella Pkwy, Goodyear, AZ</groc:hasAddress>
+	<groc:hasZipCode>85338</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#55">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>San Tan Valley Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.176395</groc:hasLatitude>
+	<groc:hasLongitude>-111.584612</groc:hasLongitude>
+	<groc:hasAddress>1725 W Hunt Hwy, San Tan Valley, AZ</groc:hasAddress>
+	<groc:hasZipCode>85143</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#56">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Maricopa Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.039071</groc:hasLatitude>
+	<groc:hasLongitude>-112.014193</groc:hasLongitude>
+	<groc:hasAddress>41650 W Maricopa Casa Grande H, Maricopa, AZ</groc:hasAddress>
+	<groc:hasZipCode>85138</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#57">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Surprise Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.642779</groc:hasLatitude>
+	<groc:hasLongitude>-112.358141</groc:hasLongitude>
+	<groc:hasAddress>13770 W Bell Rd, Surprise, AZ</groc:hasAddress>
+	<groc:hasZipCode>85374</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#58">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Surprise Walmart Neighborhood Market</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.622677</groc:hasLatitude>
+	<groc:hasLongitude>-112.392434</groc:hasLongitude>
+	<groc:hasAddress>15431 W Greenway Rd, Surprise, AZ</groc:hasAddress>
+	<groc:hasZipCode>85374</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#59">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Surprise Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.612439</groc:hasLatitude>
+	<groc:hasLongitude>-112.420708</groc:hasLongitude>
+	<groc:hasAddress>14111 N Prasada Gateway Ave, Surprise, AZ</groc:hasAddress>
+	<groc:hasZipCode>85388</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#60">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Anthem Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.869614</groc:hasLatitude>
+	<groc:hasLongitude>-112.154941</groc:hasLongitude>
+	<groc:hasAddress>4435 W Anthem Way, Anthem, AZ</groc:hasAddress>
+	<groc:hasZipCode>85086</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#61">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Buckeye Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.436922</groc:hasLatitude>
+	<groc:hasLongitude>-112.560303</groc:hasLongitude>
+	<groc:hasAddress>1060 S Watson Rd, Buckeye, AZ</groc:hasAddress>
+	<groc:hasZipCode>85326</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#62">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Coolidge Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.000049</groc:hasLatitude>
+	<groc:hasLongitude>-111.520207</groc:hasLongitude>
+	<groc:hasAddress>1695 N Arizona Blvd, Coolidge, AZ</groc:hasAddress>
+	<groc:hasZipCode>85128</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#63">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>Casa Grande Walmart Supercenter</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>32.877207</groc:hasLatitude>
+	<groc:hasLongitude>-111.712266</groc:hasLongitude>
+	<groc:hasAddress>1741 E Florence Blvd, Casa Grande, AZ</groc:hasAddress>
+	<groc:hasZipCode>85122</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#64">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore1</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.4088243</groc:hasLatitude>
+	<groc:hasLongitude>-111.9251506</groc:hasLongitude>
+	<groc:hasAddress>926 E. Broadway Rd. Tempe, AZ</groc:hasAddress>
+	<groc:hasZipCode>85281</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#65">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore2</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.41657</groc:hasLatitude>
+	<groc:hasLongitude>-111.8731812</groc:hasLongitude>
+	<groc:hasAddress>1960 W. Main St, Mesa, AZ</groc:hasAddress>
+	<groc:hasZipCode>85201</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#66">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore3</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.4789413</groc:hasLatitude>
+	<groc:hasLongitude>-111.92421</groc:hasLongitude>
+	<groc:hasAddress>2785 North Scottsdale Road, Scottsdale, AZ </groc:hasAddress>
+	<groc:hasZipCode>85257</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#67">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore4</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.3649615</groc:hasLatitude>
+	<groc:hasLongitude>-111.9298375</groc:hasLongitude>
+	<groc:hasAddress>750 E. Guadalupe, Tempe, AZ </groc:hasAddress>
+	<groc:hasZipCode>85283</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#68">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore5</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.377465</groc:hasLatitude>
+	<groc:hasLongitude>-111.8760804</groc:hasLongitude>
+	<groc:hasAddress>1951 W Baseline, Mesa, AZ</groc:hasAddress>
+	<groc:hasZipCode>85202</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#69">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore6</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.3483519</groc:hasLatitude>
+	<groc:hasLongitude>-111.9137063</groc:hasLongitude>
+	<groc:hasAddress>1515 E. Elliot Rd., Tempe, AZ</groc:hasAddress>
+	<groc:hasZipCode>85284</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#70">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore7</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.4958809</groc:hasLatitude>
+	<groc:hasLongitude>-111.9792792</groc:hasLongitude>
+	<groc:hasAddress>4750 E. Indian School Rd., Phoenix, AZ </groc:hasAddress>
+	<groc:hasZipCode>85018</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#71">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore8</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.3631631</groc:hasLatitude>
+	<groc:hasLongitude>-111.8603404</groc:hasLongitude>
+	<groc:hasAddress>1225 W. Guadalupe, Mesa, AZ </groc:hasAddress>
+	<groc:hasZipCode>85202</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#72">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore9</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.5106875</groc:hasLatitude>
+	<groc:hasLongitude>-111.910322</groc:hasLongitude>
+	<groc:hasAddress>7920 E. Chaparral, Scottsdale, AZ </groc:hasAddress>
+	<groc:hasZipCode>85250</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#73">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore10</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.3479088</groc:hasLatitude>
+	<groc:hasLongitude>-111.9821959</groc:hasLongitude>
+	<groc:hasAddress>4747 E. Elliot Rd, Phoenix, AZ </groc:hasAddress>
+	<groc:hasZipCode>85044</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#74">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore11</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.3911603</groc:hasLatitude>
+	<groc:hasLongitude>-112.0492891</groc:hasLongitude>
+	<groc:hasAddress>6202 S. 16Th St., Phoenix, AZ </groc:hasAddress>
+	<groc:hasZipCode>85042</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#75">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore12</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.3218242</groc:hasLatitude>
+	<groc:hasLongitude>-111.9128419</groc:hasLongitude>
+	<groc:hasAddress>4060 W. Ray Road, Chandler, AZ </groc:hasAddress>
+	<groc:hasZipCode>85226</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#76">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore13</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.5112527</groc:hasLatitude>
+	<groc:hasLongitude>-112.0146257</groc:hasLongitude>
+	<groc:hasAddress>3132 E. Camelback Rd, Phoenix, AZ </groc:hasAddress>
+	<groc:hasZipCode>85016</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#77">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore14</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.5375263</groc:hasLatitude>
+	<groc:hasLongitude>-111.9061934</groc:hasLongitude>
+	<groc:hasAddress>6965 N Hayden Road, Scottsdale, AZ</groc:hasAddress>
+	<groc:hasZipCode>85250</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#78">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore15</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.4662151</groc:hasLatitude>
+	<groc:hasLongitude>-112.0674775</groc:hasLongitude>
+	<groc:hasAddress>340 E. Mcdowell, Phoenix, AZ </groc:hasAddress>
+	<groc:hasZipCode>85004</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#79">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore16</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.3038738</groc:hasLatitude>
+	<groc:hasLongitude>-111.8631348</groc:hasLongitude>
+	<groc:hasAddress>1159 W. Chandler Blvd, Chandler, AZ </groc:hasAddress>
+	<groc:hasZipCode>85224</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#80">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore17</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.424119</groc:hasLatitude>
+	<groc:hasLongitude>-111.7720784</groc:hasLongitude>
+	<groc:hasAddress>2740 E. University Dr., Mesa, AZ </groc:hasAddress>
+	<groc:hasZipCode>85213</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#81">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore18</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.3031927</groc:hasLatitude>
+	<groc:hasLongitude>-111.996199</groc:hasLongitude>
+	<groc:hasAddress>4005 E. Chandler Blvd, Phoenix, AZ </groc:hasAddress>
+	<groc:hasZipCode>85048</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#82">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore19</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.3220851</groc:hasLatitude>
+	<groc:hasLongitude>-111.8225311</groc:hasLongitude>
+	<groc:hasAddress>1060 E. Ray Rd, Chandler, AZ </groc:hasAddress>
+	<groc:hasZipCode>85225</groc:hasZipCode>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://www.semanticweb.org/Group15/Store_Location#83">
+	<rdf:type rdf:resource="http://www.semanticweb.org/Team15/Grocery/ontologies/2016#Location"/>
+	<groc:hasLocationName>SafewayStore20</groc:hasLocationName>
+	<groc:hasLocationType>Store</groc:hasLocationType>
+	<groc:hasLatitude>33.4884634</groc:hasLatitude>
+	<groc:hasLongitude>-112.0820947</groc:hasLongitude>
+	<groc:hasAddress>520 W. Osborn Rd., Phoenix, AZ</groc:hasAddress>
+	<groc:hasZipCode>85013</groc:hasZipCode>
+</rdf:Description>
+
+</rdf:RDF>
